@@ -46,5 +46,5 @@ OpenSearch | Redis | Valkey | Linux | Git | CI/CD
 ---
 
 ## 🤝 Let’s Connect
-- LinkedIn: (add your link)
+- LinkedIn: [(Hugo Pinto)](https://www.linkedin.com/in/hugopinto1/)
 - Email: hugoapapinto@gmail.com
